@@ -7,14 +7,14 @@
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
 - 🌱 I’m currently learning Android Deveopment
-- 📝 Writing tech blog posts over Internet.
+- 📄 Know about my experiences [Resume](https://resume.io/r/pKfcGZy7p)
 - 💬 Ask me about: C++, Data Structure, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management.
 - 📫 How to reach me:  follow me from the footer links below 👇
 
 <details>
   <summary>Some interesting facts about me!</summary>
   <br>
-  -  I am working on my YOUTUBE channel [Ahmed Hosny](https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
+  -  I am working on my YOUTUBE channel [AhmedHosny](src = https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
   - Learning programming and getting knowledge about Software Enginnering.
   
   # Instructor in Events
