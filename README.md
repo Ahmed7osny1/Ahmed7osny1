@@ -1,5 +1,8 @@
 # Hi, I am Ahmed Hosny 👋
-![photo_2022-04-09_23-12-35](https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
+</p>
+
 
 ## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
 
