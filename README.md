@@ -1,6 +1,6 @@
 # Hi, I am Ahmed Hosny 👋
 <p align="center">
-  <img width="1000" height="500" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
+  <img width="1000" height="800" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
 </p>
 
 
