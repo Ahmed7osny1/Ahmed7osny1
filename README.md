@@ -1,4 +1,4 @@
-# Hi, I am Ahmed Hosny 👋
+### Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
   <img width="1000" height="680" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
 </p>
@@ -54,7 +54,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/github-logo-label-text-symbol-transparent-png-2425199.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
