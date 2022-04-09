@@ -13,6 +13,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 - 📄 Know about my experiences [Resume](https://resume.io/r/pKfcGZy7p)
 - 💬 Ask me about: C++, Data Structure, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management.
 - 📫 How to reach me:  follow me from the footer links below 👇
+- [<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 
 <details>
   <summary>Some interesting facts about me!</summary>
@@ -77,6 +78,5 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   <a href="https://instagram.com/https://www.instagram.com/a_7osny_a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_7osny_a/" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmed_hosny1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmed_hosny1" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/https://leetcode.com/ahmed_hosny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_hosny/" height="30" width="40" /></a>
-  [<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 </p> 
 </p>
