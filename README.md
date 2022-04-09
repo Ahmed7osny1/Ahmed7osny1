@@ -54,7 +54,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png"/> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
