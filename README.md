@@ -30,16 +30,23 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
   # BambooGeeks Intern final Exam
   
-
   
 </details>
 
 
 #### Programming language i am using :
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-3ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  
+</p>
 
 
 #### Frameworks  i am using :
@@ -49,8 +56,6 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-#### Hosting :
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 
 #### IDE :
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -62,11 +67,20 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://twitter.com/Ahmedho36018446" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ahmed-7osny/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/a_7osny_a/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100012734253212" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://leetcode.com/Ahmed_Hosny/" alt="leetcode"><img src="https://img.shields.io/badge/leetcode-E4405F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/Ahmed_Hosny1" alt="codeforces"><img src="https://img.shields.io/badge/codeforces-1877F2?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  
+    <a href="https://twitter.com/ahmedho36018446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedho36018446" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-7osny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-7osny/" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15153071/ahmed-hosny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15153071/ahmed-hosny" height="30" width="40" /></a>
+  
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100012734253212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012734253212" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/https://www.instagram.com/a_7osny_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_7osny_a/" height="30" width="40" /></a>
+  
+  <a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmed_hosny1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmed_hosny1" height="30" width="40" /></a>
+  
+<a href="https://www.leetcode.com/https://leetcode.com/ahmed_hosny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_hosny/" height="30" width="40" /></a>
+  
 </p> 
 </p>
