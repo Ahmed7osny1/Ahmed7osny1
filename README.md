@@ -1,5 +1,8 @@
 # Hi, I am Ahmed Hosny 👋
+![photo_2022-04-09_23-12-35](https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg)
+
 ## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
+
 
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
@@ -18,7 +21,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 
   # Solution Challenge Egypt 2022
-  
+
 
   # BambooGeeks Intern final Exam
   
@@ -31,7 +34,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.i o/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/C++-3ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 
 
 #### Frameworks  i am using :
@@ -58,5 +61,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
     <a href="https://www.linkedin.com/in/ahmed-7osny/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/a_7osny_a/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100012734253212" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://leetcode.com/Ahmed_Hosny/" alt="leetcode"><img src="https://img.shields.io/badge/leetcode-E4405F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Ahmed_Hosny1" alt="codeforces"><img src="https://img.shields.io/badge/codeforces-1877F2?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p> 
 </p>
