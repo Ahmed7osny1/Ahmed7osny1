@@ -62,7 +62,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img src="https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img  width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
   
@@ -77,6 +77,5 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   <a href="https://instagram.com/https://www.instagram.com/a_7osny_a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_7osny_a/" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmed_hosny1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmed_hosny1" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/https://leetcode.com/ahmed_hosny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_hosny/" height="30" width="40" /></a>
-   <a href="https://www.leetcode.com/https://leetcode.com/ahmed_hosny/" target="blank"><img src="./SocialLogo/WhatsApp.png" alt="https://leetcode.com/ahmed_hosny/" height="30" width="40" /></a>
 </p> 
 </p>
