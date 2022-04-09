@@ -14,7 +14,9 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <details>
   <summary>Some interesting facts about me!</summary>
   <br>
-  -  I am working on my YOUTUBE channel [AhmedHosny](src = https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
+  
+  -  I am working on my YOUTUBE channel [AhmedHosny](https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
+  
   - Learning programming and getting knowledge about Software Enginnering.
   
   # Instructor in Events
