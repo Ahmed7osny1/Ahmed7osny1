@@ -2,7 +2,7 @@
 ![273807016_472851451177533_3357573727288395152_n](https://user-images.githubusercontent.com/101954425/162588574-5de1c5fc-0fdf-4faf-9331-72633d35831a.jpg)
 ## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
 
-# I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
+I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
 - 🌱 I’m currently learning Android Deveopment
 - 📝 Writing tech blog posts over Internet.
@@ -16,7 +16,7 @@
   - Learning programming and getting knowledge about Software Enginnering.
   
   # Instructor in Events
-  ![273807016_472851451177533_3357573727288395152_n](https://user-images.githubusercontent.com/101954425/162591585-219322cc-7306-4cfb-be07-577031d427bb.jpg = 200*200)
+  ![273807016_472851451177533_3357573727288395152_n](https://user-images.githubusercontent.com/101954425/162591585-219322cc-7306-4cfb-be07-577031d427bb.jpg |        width=100)
   ![273815461_472851551177523_4764310859782822661_n](https://user-images.githubusercontent.com/101954425/162591587-a7e04991-0a1c-4f75-8afd-c81e9b38e9b6.jpg)
   ![273932129_473434191119259_4042689372647374587_n](https://user-images.githubusercontent.com/101954425/162591610-c8ed17ee-2a97-43bc-b7eb-c69b8152694a.jpg)
   ![273948898_474085804387431_3172221239912445260_n](https://user-images.githubusercontent.com/101954425/162591613-94d80f69-8138-44c1-b153-13420b3fa887.jpg)
