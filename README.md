@@ -38,7 +38,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   
 <hr>
 <p align="center">
-  <hr3> Let's connect and chat! Open to anyone on Earth under the Sun and Moon. <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+  <hr1> Let's connect and chat! Open to anyone on Earth under the Sun and Moon. <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <p align="center">
   <a href="https://twitter.com/ahmedho36018446" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedho36018446" height="30" width="40" /></a> 
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-7osny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-7osny/" height="30" width="40" /></a>  
