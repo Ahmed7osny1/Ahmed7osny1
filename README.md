@@ -9,31 +9,12 @@
 
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
-- 🌱 I’m currently learning Android Deveopment
+- 🌱 I’m currently learning Android Deveopment and getting knowledge about Software Enginnering.
 - 📄 Know about my experiences [Resume](https://resume.io/r/pKfcGZy7p)
 - 💬 Ask me about: C++, Data Structure, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management.
+- I am working on my YOUTUBE channel [AhmedHosny](https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
+- ⚡ Fun fact: I love to play chess and listen music.
 - 📫 How to reach me:  follow me from the footer links below 👇
-
-<details>
-  <summary>Some interesting facts about me!</summary>
-  <br>
-  
-  -  I am working on my YOUTUBE channel [AhmedHosny](https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
-  
-  - Learning programming and getting knowledge about Software Enginnering.
-  
-  # Instructor in Events
-
-
-  # Solution Challenge Egypt 2022
-
-
-  # BambooGeeks Intern final Exam
-  
-       </p>
-  
-</details>
-
 
 ### Languages and Tools:
 
@@ -47,7 +28,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img  width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img  width="40" height="40" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
   
