@@ -35,7 +35,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 </details>
 
 
-#### Programming language i am using :
+### Languages and Tools:
 
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -53,8 +53,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-<p align="center">
+  ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
   <a href="https://twitter.com/ahmedho36018446" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedho36018446" height="30" width="40" /></a> 
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-7osny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-7osny/" height="30" width="40" /></a>  
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15153071/ahmed-hosny" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15153071/ahmed-hosny" height="30" width="40" /></a> 
@@ -63,4 +62,3 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
   <a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmed_hosny1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmed_hosny1" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/https://leetcode.com/ahmed_hosny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_hosny/" height="30" width="40" /></a>
 </p> 
-</p>
