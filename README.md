@@ -64,8 +64,8 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed7osny1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Ahmed Hosny" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed7osny1&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ahmed Hosny" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed7osny1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Ahmed Hosny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed7osny1&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ahmed Hosny" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
