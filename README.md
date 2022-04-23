@@ -72,8 +72,9 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Ahmed7osny1"><img alt="Ahmed Hosny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed7osny1&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+ 
+ <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="Ahmed Hosny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed7osny&custom_title=Ahmed Hosny's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
