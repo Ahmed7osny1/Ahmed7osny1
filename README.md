@@ -1,4 +1,4 @@
-### Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed7osny1&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed7osny1" />
 		   <img src="https://badges.pufler.dev/repos/Ahmed7osny1" alt="Ahmed7osny1" />
@@ -25,6 +25,14 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 - ⚡ Fun fact: I love to play chess and listen music.
 - 📫 How to reach me:  follow me from the footer links below 👇
 
+
+<hr>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed7osny1&theme=algolia" /></p>
+
+<br>
+
 <hr>
 
 ### Languages and Tools:
@@ -46,12 +54,41 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-[![Ahmed7osny1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed7osny1)](https://github.com/Ahmed7osny1/github-readme-stats)
+## 📊 Github Stats
 
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Hosny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed7osny1&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed7osny1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ahmed Hosny" height="192px"/>
+  <br/>
+
+
+</p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Ahmed7osny1"><img alt="Ahmed Hosny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed7osny1&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+### :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&layout=compact&theme=algolia" alt="Ahmed Hosny" /></a> </p>
+
+
+	
 <hr>
 
 
-### Let's connect and chat! Open to anyone on Earth under the Sun and Moon. <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <p align="center">
   <a href="https://twitter.com/ahmedho36018446" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedho36018446" height="40" width="40" /> </a> &emsp; 
