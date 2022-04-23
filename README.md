@@ -83,7 +83,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&theme=juicyfresh&no-bg=true" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&theme=chartreuse-dark&no-bg=true" /></p>
 
 
 	
