@@ -4,6 +4,8 @@
 
 <h1 align="center"> Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed7osny1&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed7osny1" />
 		   <img src="https://badges.pufler.dev/repos/Ahmed7osny1" alt="Ahmed7osny1" />
 		   <img src="https://img.shields.io/github/followers/Ahmed7osny1?label=Followers" alt="Ahmed7osny1" />
@@ -16,6 +18,8 @@
 
 ## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
 
+<br>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
@@ -24,7 +28,7 @@
 
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
-
+<br>
 
 - 🌱 I’m currently learning Android Deveopment and getting knowledge about Software Enginnering.
 - 📄 Know about my experiences [Resume](https://resume.io/r/pKfcGZy7p)
@@ -37,6 +41,9 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <hr>
 
 ## 🔥 Streak Stats
+
+<br>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed7osny1&theme=chartreuse-dark" /></p>
 
 <br>
@@ -83,7 +90,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <br/>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&theme=juicyfresh&no-bg=true" /></p>
 
 
@@ -92,6 +99,8 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+<br/>
 
 <p align="center">
   <a href="https://twitter.com/ahmedho36018446" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedho36018446" height="40" width="40" /> </a> &emsp; 
