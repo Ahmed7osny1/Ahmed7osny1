@@ -1,8 +1,8 @@
 ### Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed7osny&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed7osny" />
-		   <img src="https://badges.pufler.dev/repos/Ahmed7osny" alt="Ahmed7osny" />
-		   <img src="https://img.shields.io/github/followers/Ahmed7osny?label=Followers" alt="Ahmed7osny" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed7osny1&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed7osny1" />
+		   <img src="https://badges.pufler.dev/repos/Ahmed7osny1" alt="Ahmed7osny1" />
+		   <img src="https://img.shields.io/github/followers/Ahmed7osny1?label=Followers" alt="Ahmed7osny1" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-[![Ahmed7osny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed7osny)](https://github.com/Ahmed7osny/github-readme-stats)
+[![Ahmed7osny1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed7osny1)](https://github.com/Ahmed7osny1/github-readme-stats)
 
 <hr>
 
