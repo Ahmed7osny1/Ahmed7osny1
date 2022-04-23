@@ -9,7 +9,7 @@
 
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_400_kxa883sd.gif" alt="adam-pw" /></p>
 <hr>
 
 - 🌱 I’m currently learning Android Deveopment and getting knowledge about Software Enginnering.
