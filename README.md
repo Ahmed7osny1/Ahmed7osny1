@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<hr>
 
 <h1 align="center"> Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
@@ -38,7 +37,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <hr>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed7osny1&theme=algolia" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed7osny1&theme=chartreuse-dark" /></p>
 
 <br>
 
