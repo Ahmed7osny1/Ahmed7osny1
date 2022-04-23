@@ -11,6 +11,8 @@
 		   <img src="https://img.shields.io/github/followers/Ahmed7osny1?label=Followers" alt="Ahmed7osny1" />
 </p>
 
+<br/>
+
 <p align="center">
   <img width="800" height="550" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
 </p>
@@ -18,7 +20,7 @@
 
 ## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
 
-<br>
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -52,6 +54,8 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 ### Languages and Tools:
 
+<br/>
+
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &emsp;
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &emsp;
@@ -70,6 +74,8 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+<br/>
  
 <p align="center">
 <a href="https://github.com/Ahmed7osny1">
@@ -80,7 +86,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+ ## <p align="center"><b>⚡ Recent GitHub Activity</b></p>
  
  <br/>
    <a href="https://github.com/Ahmed7osny1"><img alt="Ahmed Hosny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed7osny1&custom_title=Ahmed7osny1's%20Contribution%20Graph&theme=react-dark" /></a>
@@ -98,7 +104,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <hr>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></p>
 
 <br/>
 
