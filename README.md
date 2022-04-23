@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 <h1 align="center"> Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed7osny1&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed7osny1" />
@@ -14,9 +19,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
-<hr>
+
 
 - 🌱 I’m currently learning Android Deveopment and getting knowledge about Software Enginnering.
 - 📄 Know about my experiences [Resume](https://resume.io/r/pKfcGZy7p)
@@ -54,17 +63,15 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-## 📊 Github Stats
+<p align="center">
+	
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed7osny1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Ahmed Hosny" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed7osny1&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ahmed Hosny" width="410" /></p>
+<br><br><br><br><br>
 
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Hosny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed7osny1&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed7osny1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ahmed Hosny" height="192px"/>
-  <br/>
+<hr>
 
 
 </p>
@@ -80,9 +87,9 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <br/>
 
-### :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&layout=compact&theme=algolia" alt="Ahmed Hosny" /></a> </p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&theme=juicyfresh&no-bg=true" />
 
 
 	
