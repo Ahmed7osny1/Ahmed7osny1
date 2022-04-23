@@ -72,9 +72,6 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <hr>
 
 
-</p>
-
-----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
  
