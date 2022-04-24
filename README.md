@@ -42,7 +42,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-## 🔥 Streak Stats
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Streak Stats
 
 <br>
 
@@ -52,7 +52,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-### Languages and Tools:
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools:
 
 <br/>
 
