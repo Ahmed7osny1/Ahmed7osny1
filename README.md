@@ -42,7 +42,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Streak Stats
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px"> Streak Stats
 
 <br>
 
