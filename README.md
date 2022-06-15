@@ -73,7 +73,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <hr>
 
-## Git Activeness
+## <p align="center"> Git Activeness
 
 <br/>
  
@@ -104,7 +104,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <hr>
 
 
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></p>
+## <p align="center"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></p>
 
 <br/>
 
