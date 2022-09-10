@@ -18,7 +18,7 @@
 </p>
 
 
-## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
+## I am Mentor Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
 
 
 
@@ -28,7 +28,10 @@
 ## ***About me ....***
 
 
-I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
+Hi, I’m Ahmed Hosny, a Android Developer Software Engineer.  I’d love to combine my passion for learning and teaching with my software development skills to continue creating products. I have developed my communication skills and am well prepared to work on high-profile, also I’m always looking to contribute, learn, and build robust solutions in my career. 
+Languages (C++, Kotlin, Java).
+Frameworks and libraries (Material Design, Navigation Component, View Binding, Data Binding, Android architecture patterns(MVVM), Rest API (Retrofit), Room Database, SQLite, Kotlin Coroutines, Unit testing.
+Computer Science Fundamentals (OOP, Data Structures and Algorithms, Problem Solving, Database, MySQL, GitHub, Git, Agile, Jira Software)
 
 <br>
 
