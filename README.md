@@ -17,7 +17,7 @@
 </p>
 
 
-## I am Mentor Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
+## I am Mentor Google Developers Students Club - Benha University | Intern Android Development, Egypt FWD | Udacity | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
 
 
 
