@@ -17,7 +17,7 @@
 </p>
 
 
-## I am Mentor Google Developers Students Club - Benha University | Intern Android Development, Egypt FWD | Udacity | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
+## Education Manager @Cairo Coding School | Site supervisor @Udacity | Mobile Engineer (Android & Flutter) | Project manager & Scrum Master
 
 
 
@@ -27,18 +27,20 @@
 ## ***About me ....***
 
 
-Hi, I’m Ahmed Hosny, a Android Developer Software Engineer.  I’d love to combine my passion for learning and teaching with my software development skills to continue creating products. I have developed my communication skills and am well prepared to work on high-profile, also I’m always looking to contribute, learn, and build robust solutions in my career. 
-Languages (C++, Kotlin, Java).
-Frameworks and libraries (Material Design, Navigation Component, View Binding, Data Binding, Android architecture patterns(MVVM), Rest API (Retrofit), Room Database, SQLite, Kotlin Coroutines, Unit testing.
-Computer Science Fundamentals (OOP, Data Structures and Algorithms, Problem Solving, Database, MySQL, GitHub, Git, Agile, Jira Software)
+I have gained diverse experience in education, Android development, and project management, empowering students and teams to achieve their goals:
+Education & Mentorship: Successfully trained and mentored 500+ students and guided 5 graduation project teams to complete impactful solutions. Delivered workshops on computer science fundamentals, Android development, and agile practices.
+Android Development: Designed and developed mobile applications using Kotlin, Jetpack Compose, and modern Android frameworks. Focused on creating scalable and user-friendly solutions.
+Project & Product Management: Skilled in managing project lifecycles, writing documentation, and aligning team efforts with business goals. Practical knowledge in Scrum and Agile methodologies, ensuring timely and high-quality deliverables.
+Leadership & Collaboration: Experienced in leading teams, fostering communication, and motivating individuals to excel in dynamic environments.
+My career aspirations include excelling as a Senior Android Developer, Project Manager, Scrum Master, or Product Manager, where I can contribute my diverse skill set to innovative and impactful projects.
 
 <br>
 
-- 🌱 I’m currently learning Android Deveopment and getting knowledge about Software Enginnering.
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11h3Xc2uenfBcr7Ef_2iNJSw6ezpviZYr/view?usp=sharing)
+- 🌱 I’m currently learning Android development and getting knowledge about Flutter.
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/m9mimsuqc2)
 - 💬 Ask me about: C++, Data Structure, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management.
 - I am working on my YOUTUBE channel [AhmedHosny](https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
-- ⚡ Fun fact: I love to play chess and listen music.
+- ⚡ Fun fact: I love to play chess and listen to music.
 - 📫 How to reach me:  follow me from the footer links below 👇
 
 
@@ -89,10 +91,6 @@ Computer Science Fundamentals (OOP, Data Structures and Algorithms, Problem Solv
 <hr>
 
  ## <p align="center"><b>⚡ Recent GitHub Activity</b></p>
- 
- <br/>
-   <a href="https://github.com/Ahmed7osny1"><img alt="Ahmed Hosny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed7osny1&custom_title=Ahmed7osny1's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
