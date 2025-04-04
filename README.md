@@ -17,7 +17,7 @@
 </p>
 
 
-## Education Manager @Cairo Coding School | Site supervisor @Udacity | Mobile Engineer (Android & Flutter) | Project manager & Scrum Master
+## Education Manager @Cairo Coding School | Mobile Software Engineer Intern @The Chance | Site supervisor @Udacity | Mobile Engineer (Android & Flutter) | Project manager & Scrum Master
 
 
 
@@ -87,10 +87,6 @@ My career aspirations include excelling as a Senior Android Developer, Project M
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed7osny1&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
-
-<hr>
-
- ## <p align="center"><b>⚡ Recent GitHub Activity</b></p>
 
 
 <br/>
