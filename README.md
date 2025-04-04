@@ -93,7 +93,7 @@ My career aspirations include excelling as a Senior Android Developer, Project M
 
 <hr>
 
-## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&theme=juicyfresh&no-bg=true" /></p>
 
 <br/>
